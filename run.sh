@@ -1,0 +1,1 @@
+nohup python -u Exp3_Main.py  > ./logs/exp1.log 2>&1 &
